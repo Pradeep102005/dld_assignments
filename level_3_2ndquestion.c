@@ -1,3 +1,6 @@
+//
+// Created by prade on 02-10-2023.
+//
 #include<stdio.h>
 int main() {
     int n;
@@ -16,4 +19,4 @@ int main() {
 }
 
 
-}
+
