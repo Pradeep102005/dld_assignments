@@ -1,0 +1,8 @@
+"C:\Program Files\JetBrains\CLion 2023.2.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe" -G Ninja -S C:\Users\prade\Desktop\science.c\pattern_printing.c -B C:\Users\prade\Desktop\science.c\pattern_printing.c\cmake-build-debug
+-- Configuring done (0.7s)
+CMake Error at CMakeLists.txt:6 (add_library):
+  C_STANDARD is set to invalid value '89'
+
+
+-- Generating done (0.2s)
+CMake Generate step failed.  Build files cannot be regenerated correctly.

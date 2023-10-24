@@ -1,0 +1,6 @@
+#ifndef PATTERN_PRINTING_C_LIBRARY_H
+#define PATTERN_PRINTING_C_LIBRARY_H
+
+void hello(void);
+
+#endif //PATTERN_PRINTING_C_LIBRARY_H

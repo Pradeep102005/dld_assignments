@@ -1,0 +1,3 @@
+C:/Users/prade/Desktop/science.c/pattern_printing.c/cmake-build-debug/CMakeFiles/pattern_printing_c.dir
+C:/Users/prade/Desktop/science.c/pattern_printing.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/prade/Desktop/science.c/pattern_printing.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
